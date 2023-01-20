@@ -14,6 +14,21 @@
 | Nguyen Minh Anh         | sXXXXXXX                                         | Front-end       | function 1, fuction 2 , function 3, function 4, function5       |
 
 
+### Functions
+|Function Name            | Function Description                             |
+|-------------------------|--------------------------------------------------|
+|Login                    | User can login with their email and password, the login with be time out with a token after each 10 hours|
+|Register                 |                                                  |
+|Password Reset           |                                                  |
+|Search Book              |                                                  |
+|Post Book                |
+|Update Book              |
+|Delete Book              |
+|Order Book               |
+|Account Setting          |
+|Notification (Buyer)     |
+|Notification (Seller)    |
+|Review Seller            |
 
 ## ChangeLog
 
