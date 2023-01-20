@@ -1,6 +1,8 @@
 # Go-Goat
 
 > A Android App use for buy/sell used/new books
+![goat_logo](https://user-images.githubusercontent.com/57244454/213659108-cc25226a-3dfa-43f5-af75-347e007b2668.svg)
+
 
 ### Team Members
 | Student Name            | Student ID                                       | Roles           | Contributions                                                   |
